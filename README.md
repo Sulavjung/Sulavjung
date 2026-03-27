@@ -129,7 +129,7 @@ Across all of these, the consistent goal has been to build systems that are effi
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamalsulavjung@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sulavhamal.com/)
-[![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=wordpress&logoColor=white)](https://sulavhamal.com/blog)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=wordpress&logoColor=white)](https://sulavhamal.com/blogs)
 [![Resume](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=adobe-acrobat&logoColor=white)](https://sulavhamal.com/resume)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulavjunghamal/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sulavjung)
