@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Intellectual growth is a core priority for me. I look for environments that challenge thinking, encourage learning, and support long-term development. If that is not something your organization values, I would not be a good fit.
 
-I don’t just use technology. I try to understand how it works and rebuild it better. I spend a lot of time thinking about problems, breaking them down, and finding efficient solutions. Inefficiencies in systems stand out to me and I feel the need to fix them.
+I don’t just use technology. I try to understand how it works and rebuild it better. I spend a lot of time thinking about problems, breaking them down, and finding efficient solutions. Inefficiencies in systems bugs me and I feel the need to fix them.
 
 I recently completed my bachelor’s in computer science, where I worked across full stack development, backend systems, and low level programming. I have built real systems used in small businesses, worked on startup ideas, and explored everything from web applications to operating systems and networking.
 
