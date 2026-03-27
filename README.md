@@ -14,55 +14,57 @@ My goal is to move deeper into machine learning, autonomous systems, and researc
 
 
 ## A. Technologies
+As I started listing these out, I was amazed at what I’ve gone through over the past 3-5 years. The sheer amount of technology and tools a Computer Science student needs to learn is immense. This isn’t even a complete list — there are many other languages, paradigms, and concepts we explored, like Ruby, Fortran, COBOL, functional programming, logical programming, and more.  
 
 ### 1. Frontend
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge&logo=gatsby)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge\&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge\&logo=redux)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge\&logo=typescript)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=for-the-badge\&logo=gatsby)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge\&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge\&logo=bootstrap)
-![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge\&logo=vite)
+### 2. Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge)
 
+### 3. DevOps & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-
-### 2. Backend and Systems
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge\&logo=express)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge\&logo=java)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge\&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge\&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge\&logo=sqlite)
-![WebSocket](https://img.shields.io/badge/-WebSocket-000?style=for-the-badge)
-
-
-
-### 3. Infrastructure and Tools
-
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge\&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge\&logo=git)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge\&logo=netlify)
-
-
-
-### 4. Machine Learning and Data
-
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge\&logo=numpy)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge)
+### 4. AI, Machine Learning & Data
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-000?style=for-the-badge)
+![LLM Orchestration](https://img.shields.io/badge/-LLM%20Orchestration-000?style=for-the-badge)
+
+### 5. Software Engineering Concepts
+- Object-Oriented Programming (OOP)  
+- Software Design Patterns  
+- Algorithm Analysis  
+- Operating Systems  
+- Computer Networks  
+- Database Systems  
+- Internet Application Development  
+
 
 
 
