@@ -80,6 +80,9 @@ I have worked across different types of systems, from user facing applications t
 
 Across all of these, the consistent goal has been to build systems that are efficient, practical, and grounded in real use cases.
 
+> [!TIP]
+> If you have questions about any of my projects, want to discuss technology, or are simply curious to learn, feel free to send me an email. We can set up a time to talk in detail.
+
 ## C. Technical Books
 > [!NOTE]
 > I like to read, and even today I find books to be the best way to learn anything we want. I say “even today” because I know many of us now prefer learning from YouTube, which is fine, but with videos, I don’t have a clear reference for where to find that information again if I need to revisit it.
