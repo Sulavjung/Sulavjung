@@ -69,6 +69,8 @@ My goal is to move deeper into machine learning, autonomous systems, and researc
 ## B. Work and Projects
 
 I have worked across different types of systems, from user facing applications to low level programming.
+> [!TIP]
+> If you have questions about any of my projects, want to discuss technology, or are simply curious to learn, feel free to send me an email. We can set up a time to talk in detail.
 
 1. On the application side, I co founded a project where we built an AI driven task management and journaling system using React, Express, MySQL, and Docker, deployed on AWS. This project evolved from a class project into something closer to a startup and required thinking about scalability, architecture, and user experience.
 
@@ -80,8 +82,7 @@ I have worked across different types of systems, from user facing applications t
 
 Across all of these, the consistent goal has been to build systems that are efficient, practical, and grounded in real use cases.
 
-> [!TIP]
-> If you have questions about any of my projects, want to discuss technology, or are simply curious to learn, feel free to send me an email. We can set up a time to talk in detail.
+
 
 ## C. Technical Books
 > [!NOTE]
