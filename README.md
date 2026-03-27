@@ -1,4 +1,4 @@
-# Sulav
+# Sulav Jung Hamal
 > [!IMPORTANT]
 > Intellectual growth is a core priority for me. I look for environments that challenge thinking, encourage learning, and support long-term development. If that is not something your organization values, I would not be a good fit.
 
